@@ -1,4 +1,4 @@
-Dockerized LLM-Powered Document QA System
+#Dockerized LLM-Powered Document QA System
 
 A containerized Retrieval-Augmented Generation (RAG) system that enables users to upload PDF documents and ask natural language questions. The system retrieves relevant document context using vector search (FAISS) and generates grounded answers using a locally hosted Large Language Model via Ollama.
 
